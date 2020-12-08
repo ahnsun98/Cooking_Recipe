@@ -1,0 +1,11 @@
+<resources>
+<string name="app_name">Cooking_Recipe</string><string name="title_activity_sub">SubActivity</string>
+
+<string-array name = "ingredients">
+    <item>"당근"</item>
+    <item>"감자"</item>
+    <item>"계란"</item>
+    <item>"햄"</item>
+    <item>"케찹"</item>
+</string-array>
+</resources>
